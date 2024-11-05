@@ -9,5 +9,4 @@ As the title suggests, this is an attempt to fine-tune a Gemini GenAI Model (bas
 ## Dataset
 The dataset ```1.csv``` is a dataset formatted as a list of legal QnA that cites the Constitution of India, the Indian Penal Code and Code of Criminal Procedure, India.
 
-------
-Unable to export dataset as a .h5 or .keras file at the moment.
+Note: Unable to export model as a .h5 or .keras file at the moment.
