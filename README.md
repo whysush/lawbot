@@ -11,13 +11,4 @@ Note: Unable to export model as a .h5 or .keras file at the moment.
 The dataset ```1.csv``` is a dataset formatted as a list of legal QnA that cites the Constitution of India, the Indian Penal Code and Code of Criminal Procedure, India. 
 Find individual datasets as .json files in ```/archive```
 
-{
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/whysush/lawbot/blob/main/lawbot.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    }
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/whysush/lawbot/blob/main/lawbot.ipynb)
